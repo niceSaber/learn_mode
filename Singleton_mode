@@ -1,0 +1,6 @@
+    懒汉模式：
+```Java
+  public class Test(){ //java
+    private static Test test;
+    }
+```
